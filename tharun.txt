@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
-qwe
-bhekfg
-=======
 bhekfg
 qwe
->>>>>>> 4aeacdb904d141c5e45e7ce739d5b118d8780558
+
 
